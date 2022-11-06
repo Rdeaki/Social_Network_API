@@ -4,21 +4,21 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Rdeaki/Social_Network_API.git"
+        "type": "git",
+        "url": "git+https://github.com/Rdeaki/Social_Network_API.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/Rdeaki/Social_Network_API/issues"
+        "url": "https://github.com/Rdeaki/Social_Network_API/issues"
     },
     "homepage": "https://github.com/Rdeaki/Social_Network_API#readme",
     "dependencies": {
-      "express": "^4.18.2",
-      "mongoose": "^6.6.5"
+        "express": "^4.18.2",
+        "mongoose": "^6.7.1"
     }
-  }
+}
