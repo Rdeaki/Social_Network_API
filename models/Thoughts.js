@@ -75,7 +75,7 @@ thoughtSchema.virtual('reactionCount')
     return this.reactions.length;
 })
 
-// create the User model using the UserSchema
+// create User model
 const Thought = model('Thought', thoughtSchema);
 
 // exports thought model
